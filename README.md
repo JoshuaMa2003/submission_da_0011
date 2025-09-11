@@ -1,2 +1,5 @@
-# submission_da_0011
-Design Assignment Submissions for CPE403
+Student Name: Joshua Martinez
+
+Student #: 5007531628
+
+Student Email: marti87@unlv.nevada.edu
