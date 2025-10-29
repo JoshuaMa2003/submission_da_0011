@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MCU_Texas")(type "Legacy")(uri "${KIPRJMOD}/libs/MCU_Texas/MCU_Texas.lib")(options "")(descr ""))
+)
